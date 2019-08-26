@@ -124,7 +124,7 @@ THE SOFTWARE.
   <repositories>
     <repository>
       <id>repo.jenkins-ci.org</id>
-      <url>https://repo.jenkins-ci.org/public/</url>
+      <url>http://192.168.31.201:8082/repository/jenkins/</url>
       <!-- allow snapshots -->
     </repository>
   </repositories>
@@ -132,7 +132,7 @@ THE SOFTWARE.
   <pluginRepositories>
     <pluginRepository>
       <id>repo.jenkins-ci.org</id>
-      <url>https://repo.jenkins-ci.org/public/</url>
+      <url>http://192.168.31.201:8082/repository/jenkins/</url>
     </pluginRepository>
   </pluginRepositories>
 
